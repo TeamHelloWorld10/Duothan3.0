@@ -6,16 +6,16 @@ To help address the shortage of medical resources in Sri Lanka, we were proposed
 	Kavindu Damsith
 	Thakshaka Rathnayake
 	Hasitha Gallella
-  Lasitha Amarasinghe
+  	Lasitha Amarasinghe
 
 ### Technology StackS/Frameworks
 	PHP
-  MySQL
-  HTML
-  Bootstrap
-  JQuery
-  CSS
-  JavaScript
-  Xampp
-  Postman
+  	MySQL
+  	HTML
+  	Bootstrap
+  	JQuery
+  	CSS
+  	JavaScript
+  	Xampp
+  	Postman
 
