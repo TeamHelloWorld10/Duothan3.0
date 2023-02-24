@@ -8,7 +8,7 @@ To help address the shortage of medical resources in Sri Lanka, we were proposed
 	Hasitha Gallella
   	Lasitha Amarasinghe
 
-### Technology StackS/Frameworks
+### Technology Stacks/Frameworks
 	PHP
   	MySQL
   	HTML
